@@ -1,2 +1,2 @@
-# shell1
+# AWS Resource Tracker using shelll script
 regarding shell scripting
